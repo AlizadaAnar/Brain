@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/jwt_security
-    username: postgres
-    password: 12345
+    url: jdbc:postgresql://ccaml3dimis7eh.cluster-czz5s0kz4scl.eu-west-1.rds.amazonaws.com:5432/dc2002nqnoatfv
+    username: u610m91s7bd87n
+    password: p62b20f9ddd7638a9cb2b7291aecb3b08bebf2a2c01f1024b633a6bf2b58fbd04
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
